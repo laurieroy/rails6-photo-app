@@ -1,8 +1,18 @@
-# README
+# PHOTO APP
+See demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This photo app was built in Rails 6.1.0, Ruby 2.6.3
 
+GEMS USED:
+ * Devise
+
+ To run on your local machine:
+ * Fork Repo
+ * cd into it
+ * Run `bundle install` to install the gems
+ * Run `rails s` to start the server
+
+<!-- 
 Things you may want to cover:
 
 * Ruby version
@@ -22,3 +32,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+ -->
